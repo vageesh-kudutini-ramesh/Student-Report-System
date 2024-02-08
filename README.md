@@ -1,4 +1,3 @@
--- SALESKEN ASSIGNMENT --
 
 This is a student reporting system project with mentioned functionalities.
 (Semesters are only 2 and subjects are namely English, Maths, Science)
